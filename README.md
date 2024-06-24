@@ -1,2 +1,2 @@
 # Portfolio
-P
+Possessing C++ skills in DSA and understanding different algorithms means allowed me to be well-equipped to handle complex computational problems using one of the most powerful and versatile programming languages. I learned how to design, implement, and optimize a wide range of data structures and algorithms, apply them effectively to solve real-world problems, and continually adapt to new challenges in the field of computer science.
